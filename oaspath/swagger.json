@@ -12,6 +12,7 @@
   "paths": {
     "/HelloWorld": {
       "get": {
+        "operationId": "hellowold-get"
         "summary": "Returns a Hello message.",
         "description": "Optional extended description in CommonMark or HTML.",
         "responses": {
